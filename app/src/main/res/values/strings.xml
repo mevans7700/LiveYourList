@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Live Your List</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="loading">Loading…</string>
+    <string name="general_loading_message">Loading, please wait…</string>
+
+    <string name="no_content_title">No content</string>
+    <string name="no_content_text">There was no content that downloaded</string>
+
+    <string name="directory_tab1">Businesses</string>
+    <string name="directory_tab2">Places</string>
+</resources>

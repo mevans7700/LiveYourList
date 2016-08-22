@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="green">#6ca439</color>
+    <color name="blue">#599daa</color>
+    <color name="bright_orange">#ea843d</color>
+    <color name="moderate_orange">#ea5e3e</color>
+    <color name="dark_orange">#ea5e3e</color>
+    <color name="cyan_lime_green">#57a98f</color>
+    <color name="very_dark_grayish_yellow">#53534a</color>  <!--DGY-->
+    <color name="dark_beige">#a79d87</color>
+    <color name="dark_grayish_orange">#7c6e66</color>  <!--DGO-->
+    <color name="dark_purple_brown">#5d4e4e</color>  <!--DPB-->
+    <color name="dark_gray_orange">#7c6e66</color>
+    <color name="very_dark_grayish_blue">#65656a</color>  <!--DGB-->
+    <color name="dark_gray">#8b8a8d</color>
+    <color name="light_gray_beige">#e4e1dd</color>
+    <color name="beige">#f5f2e8</color>
+    <color name="dark_blue">#427882</color>
+    <color name="dark_green">#4e7629</color>
+    <color name="yellow">#f5ad20</color>
+</resources>
